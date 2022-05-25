@@ -1,5 +1,4 @@
-from audioop import reverse
-from re import X
+
 
 
 n=int(input("Enter No:"))
